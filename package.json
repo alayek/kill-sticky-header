@@ -1,0 +1,9 @@
+{
+  "name": "kill-sticky-header",
+  "version": "1.0.0",
+  "description": "Kill sticky headers",
+  "main": "src/kill-sticky.js",
+  "repository": "git@github.com:alayek/kill-sticky-header.git",
+  "author": "alayek",
+  "license": "MIT"
+}
